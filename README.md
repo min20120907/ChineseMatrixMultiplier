@@ -1,5 +1,5 @@
 # ChineseMatrixMultiplier
-中文版的矩陣乘法器
+中文版的矩陣乘法器——
 
 安裝方法：
 
