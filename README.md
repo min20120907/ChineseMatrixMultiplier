@@ -2,7 +2,8 @@
 中文版的矩陣乘法器
 
 安裝方法：
-必備套件：jdk
+ 必備套件：jdk
+ 
 Linux:
     
     $ javac Matrix_Multiplier.java
